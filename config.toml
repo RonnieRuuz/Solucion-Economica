@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://github.com/RonnieRuuz/Solucion-Economica"
 languageCode = "es"
 title = "Solución Económica"
 theme = "timer"
