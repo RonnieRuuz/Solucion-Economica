@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Solución Económica</title>
-    <link>https://github.com/RonnieRuuz/Solucion-Economica/categories/</link>
+    <link>https://ronnieruuz.github.io/Solucion-Economica/categories/</link>
     <description>Recent content in Categories on Solución Económica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://github.com/RonnieRuuz/Solucion-Economica/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://ronnieruuz.github.io/Solucion-Economica/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

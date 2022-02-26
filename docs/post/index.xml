@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Solución Económica</title>
-    <link>https://github.com/RonnieRuuz/Solucion-Economica/post/</link>
+    <link>https://ronnieruuz.github.io/Solucion-Economica/post/</link>
     <description>Recent content in Posts on Solución Económica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 25 Feb 2022 23:52:10 -0600</lastBuildDate><atom:link href="https://github.com/RonnieRuuz/Solucion-Economica/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 23:52:10 -0600</lastBuildDate><atom:link href="https://ronnieruuz.github.io/Solucion-Economica/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generar Mas</title>
-      <link>https://github.com/RonnieRuuz/Solucion-Economica/post/generar-mas/</link>
+      <link>https://ronnieruuz.github.io/Solucion-Economica/post/generar-mas/</link>
       <pubDate>Fri, 25 Feb 2022 23:52:10 -0600</pubDate>
       
-      <guid>https://github.com/RonnieRuuz/Solucion-Economica/post/generar-mas/</guid>
+      <guid>https://ronnieruuz.github.io/Solucion-Economica/post/generar-mas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Esto Es Hugo</title>
-      <link>https://github.com/RonnieRuuz/Solucion-Economica/post/esto-es-hugo/</link>
+      <link>https://ronnieruuz.github.io/Solucion-Economica/post/esto-es-hugo/</link>
       <pubDate>Fri, 25 Feb 2022 23:51:46 -0600</pubDate>
       
-      <guid>https://github.com/RonnieRuuz/Solucion-Economica/post/esto-es-hugo/</guid>
+      <guid>https://ronnieruuz.github.io/Solucion-Economica/post/esto-es-hugo/</guid>
       <description></description>
     </item>
     
