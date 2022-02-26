@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.com/post/generar-mas/</loc>
+    <lastmod>2022-02-25T23:52:10-06:00</lastmod>
+  </url><url>
+    <loc>http://example.com/post/</loc>
+    <lastmod>2022-02-25T23:52:10-06:00</lastmod>
+  </url><url>
+    <loc>http://example.com/</loc>
+    <lastmod>2022-02-25T23:52:10-06:00</lastmod>
+  </url><url>
+    <loc>http://example.com/post/esto-es-hugo/</loc>
+    <lastmod>2022-02-25T23:51:46-06:00</lastmod>
+  </url><url>
+    <loc>http://example.com/contacto/</loc>
+    <lastmod>2022-02-25T23:38:03-06:00</lastmod>
+  </url><url>
+    <loc>http://example.com/categories/</loc>
+  </url><url>
+    <loc>http://example.com/tags/</loc>
+  </url>
+</urlset>

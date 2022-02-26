@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Solución Económica</title>
+    <link>http://example.com/post/</link>
+    <description>Recent content in Posts on Solución Económica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 25 Feb 2022 23:52:10 -0600</lastBuildDate><atom:link href="http://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generar Mas</title>
+      <link>http://example.com/post/generar-mas/</link>
+      <pubDate>Fri, 25 Feb 2022 23:52:10 -0600</pubDate>
+      
+      <guid>http://example.com/post/generar-mas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esto Es Hugo</title>
+      <link>http://example.com/post/esto-es-hugo/</link>
+      <pubDate>Fri, 25 Feb 2022 23:51:46 -0600</pubDate>
+      
+      <guid>http://example.com/post/esto-es-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
