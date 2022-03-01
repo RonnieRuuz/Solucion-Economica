@@ -84,7 +84,7 @@ enable = true
 title = "55 25231735"
 content = "Av. Insurgentes sur #1896, piso 10 y 12. Colonia Florida, Álvaro Obregón, CDMX, CP 01030 "
 btnText = "Contactanos"
-btnURL = "https://seconomica/contact/"
+btnURL = "https://seconomica.com/contact/"
 
 # Portfolio Section On Homepage
 [params.portfolio]
