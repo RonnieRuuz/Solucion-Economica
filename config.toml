@@ -1,4 +1,4 @@
-baseURL = "https://ronnieruuz.github.io/Solucion-Economica/"
+baseURL = "https://seconomica.com"
 languageCode = "es"
 title = "Solución Económica"
 theme = "timer"
@@ -84,7 +84,7 @@ enable = true
 title = "55 25231735"
 content = "Av. Insurgentes sur #1896, piso 10 y 12. Colonia Florida, Álvaro Obregón, CDMX, CP 01030 "
 btnText = "Contactanos"
-btnURL = "https://ronnieruuz.github.io/Solucion-Economica/contact/"
+btnURL = "https://seconomica/contact/"
 
 # Portfolio Section On Homepage
 [params.portfolio]
