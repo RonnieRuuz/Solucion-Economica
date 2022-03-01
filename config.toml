@@ -50,7 +50,7 @@ author = "Soluciones Económicas"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # contact form action
-contactFormAction = "#" # contact form works with https://formspree.io
+contactFormAction = "https://formspree.io/f/mjvlrgqz" # contact form works with https://formspree.io
 
 # Banner Section
 [params.banner]
