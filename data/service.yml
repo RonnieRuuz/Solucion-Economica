@@ -1,24 +1,20 @@
 enable  : true
-title   : WHAT WE LOVE TO DO
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+title   : Solicitud de crédito
+subtitle: Nuestros asesores están listos para atender tu solicitud y poder brindarte una opción personalisada que se ajuste a tus necesidades. No hay necesidad de perder el tiempo, nosotros te resolvemos en 24 horas.
 image   : images/team.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    image: images/oferta-1.jpg
+    title : Crédito tradicional
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : Crédito para plataformas
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
-    description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
-
-  - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : Crédito seminuevos
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum

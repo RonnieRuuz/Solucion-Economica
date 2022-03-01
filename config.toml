@@ -13,28 +13,29 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "About"
-url = "about/"
-weight = 2
+#[[menu.main]]
+#name = "Acerca de"
+#url = "about/"
+#weight = 2
+
 
 [[menu.main]]
-name = "Service"
-url = "service/"
+name = "Ofertas"
+url = "gallery/"
 weight = 3
 
 [[menu.main]]
-name = "Gallery"
-url = "gallery/"
+name = "Requisitos"
+url = "service/"
 weight = 4
 
-[[menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 5
+#[[menu.main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 5
 
 [[menu.main]]
-name = "Contact"
+name = "Contacto"
 url = "contact/"
 weight = 6
 
@@ -55,24 +56,24 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable = true
 bgImage = "images/slider.jpg"
-heading = "HI, MY NAME IS JONATHON & I AM A"
-description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+heading = "Somos la opción definitiva para adquirir tu auto"
+description = "Los mejores planes para que adquieras el auto de tus sueños y cumplas hoy tus metas."
 # button
 btn = true
-btnText = "Download More"
-btnURL = "https://themefisher.com/"
+btnText = "Solicitar crédito"
+btnURL = "contact/"
 
 # flip text
 [[params.banner.flipText]]
-title = "DESIGNER"
+title = "Créditos tradicionales"
 [[params.banner.flipText]]
-title = "DEVELOPER"
+title = "Créditos para plataformas"
 [[params.banner.flipText]]
-title = "FATHER"
+title = "Créditos seminuevos"
 
 # Homepage About Section
 [params.about]
-enable = true
+enable = false
 title = "ABOUT ME"
 content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
 image = "images/about/about.jpg"
@@ -80,16 +81,16 @@ image = "images/about/about.jpg"
 # Call to Action
 [params.cta]
 enable = true
-title = "SO WHAT YOU THINK ?"
-content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-btnText = "Contact with me"
-btnURL = "contact/"
+title = "55 25231735"
+content = "Av. Insurgentes sur #1896, piso 10 y 12. Colonia Florida, Álvaro Obregón, CDMX, CP 01030 "
+btnText = "Contactanos"
+btnURL = "https://ronnieruuz.github.io/Solucion-Economica/contact/"
 
 # Portfolio Section On Homepage
 [params.portfolio]
 enable = true
-title = "Latest Works"
-subtitle = "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+title = "Soluciones crediticias"
+subtitle = "En Solución Económica ofrecemos distintas ofertas créditicias para que puedas adquirir el vehiculo de tus sueños."
 
 # social icon
 [[params.socialIcon]]

@@ -1,34 +1,19 @@
 enable  : true
-title   : Offer From Me
+title   : Tenemos la solución perfecta para ti
 subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+  Obten el mejor financiamiento para empresas, negocios y personales.
 item    :
-  - icon  : ion-ios-flask-outline
-    title : Media heading
+  - icon  : ion-card
+    title : ¿Problemas en buró?
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      ¿Tuviste un problema con buró? Nosotros te ofrecemos la oportunidad de limpiar tu historial
 
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+  - icon  : ion-ios-search
+    title : ¿Sin historial crediticio?
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      En solución economica ofrecemos un esquema de aprobación personalizada, el cual se ajusta a las necesidades y solvencia de nuestros clientes
 
-  - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+  - icon  : ion-model-s
+    title : Nuevos y Seminuevos
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-keypad-outline
-    title : Solid Support
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-barcode-outline
-    title : Simple Installation
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-  
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Ofrecemos financiamiento a practicamente cualquier vehiculo, independientemente que sean Nuevos y Seminuevos. Nuestro único requisito es que tenga un valor superior a los $150,000MXN.
