@@ -65,6 +65,10 @@ btnURL = "contact/"
 
 # flip text
 [[params.banner.flipText]]
+title = "Comisión por apertura 0%"
+[[params.banner.flipText]]
+title = "Lo-Jack GRATIS el primer año"
+[[params.banner.flipText]]
 title = "Créditos tradicionales"
 [[params.banner.flipText]]
 title = "Créditos para plataformas"
@@ -81,8 +85,8 @@ image = "images/about/about.jpg"
 # Call to Action
 [params.cta]
 enable = true
-title = "55 25231735"
-content = "Av. Insurgentes sur #1896, piso 10 y 12. Colonia Florida, Álvaro Obregón, CDMX, CP 01030 "
+title = "55 6225 4174"
+content = "Av. Paseo de la reforma #284, Colonia Juárez, Cuauhtémoc, CDMX, CP. 06600 "
 btnText = "Contactanos"
 btnURL = "https://seconomica.com/contact/"
 
